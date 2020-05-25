@@ -1,5 +1,5 @@
 # BeerOClock
-Galaxy Watch Designer source files for the BeerOClock watch face.
+Galaxy Watch Designer source files for the Beer O'Clock watch face.
 
 It's always Beer O'Clock.
 
